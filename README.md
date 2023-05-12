@@ -1,5 +1,5 @@
 # BlackJack
-This project was made to simulate a casino styled BlackJack game.
+This project was made to simulate a casino styled BlackJack game. If you would like to try the game, download the Game folder and run the exe file(make sure that the Images folder is also dowloaded in the same place).
 
 Rules:
   - Dealer must draw on 16 or less, and stand on 17 or more
@@ -16,6 +16,8 @@ How to play:
 Features:
   - 4 decks used
   - 3 shuffles
+  - 4 players
+  - Players can choose to not play a round if they bet $0
   - Players can take chips back by clicking on them
   - The deck will reshuffle once it is half its original size
   - If all the players lose, a play again option is available
