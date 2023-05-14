@@ -1,5 +1,5 @@
 # BlackJack
-This project was made to simulate a casino styled BlackJack game. If you would like to try the game, download the Game folder and run the exe file(make sure that the Images folder is also dowloaded in the same place).
+This project was made using the python package tkinter. The purpose is to simulate a casino styled BlackJack game. If you would like to try the game, download the Game folder and run the .exe file(make sure that the Images folder is also dowloaded in the same place).
 
 Rules:
   - Dealer must draw on 16 or less, and stand on 17 or more
